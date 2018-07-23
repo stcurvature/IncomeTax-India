@@ -3,7 +3,7 @@
 # Important Links
 
  - [Income tax in India Wikipedia](https://en.wikipedia.org/wiki/Income_tax_in_India)
- - [Income Tax Department] (https://www.incometaxindia.gov.in/)
+ - [Income Tax Department](https://www.incometaxindia.gov.in/)
  - [Guide to Income tax in India](https://cleartax.in/s/income-tax)
  - [Guide to E-Filing](https://cleartax.in/s/efiling-income-tax-return)
  - [Tax on House Property](https://cleartax.in/s/house-property)
