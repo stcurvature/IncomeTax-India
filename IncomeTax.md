@@ -9,6 +9,9 @@
  - [Income tax verification](https://cleartax.in/s/income-tax-e-verification-evc)
  - [Income Tax Slabs](https://cleartax.in/s/income-tax-slabs)
  - [View your Form 26AS](https://cleartax.in/s/view-form-26as-tax-credit-statement)
+ - [Know your PAN](https://portal.incometaxindiaefiling.gov.in/e-Filing/Services/KnowYourPanLinkGS.html)
+ - [Tax Tools](https://www.incometaxindiaefiling.gov.in/downloads/offlineUtilities?lang=eng)
+ - [ePay Tax](https://onlineservices.tin.egov-nsdl.com/etaxnew/tdsnontds.jsp)
  
 ## Guide
 
