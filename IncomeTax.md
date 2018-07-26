@@ -68,4 +68,4 @@ Important calender dates for the current and previous financial year.
 | On or before 15th June | 15% of advance tax |
 | On or before 15th September | 45% of avance tax |
 | On or before 15th December | 75% of avnace tax |
-| On or before 15th March | 199% of advance tax |
+| On or before 15th March | 100% of advance tax |
