@@ -43,3 +43,29 @@
  - [W8 Form](https://www.investopedia.com/terms/w/w8form.asp)
  - [Introduction to Dividends](https://www.investopedia.com/university/introduction-to-dividends/)
  
+
+# Tax Calendar (Individual)
+
+Important calender dates for the current and previous financial year.
+
+| Due Date | Milestone | Advance Tax (Cur FY) | Return Filing (Past FY) |
+| --- | --- | --- | --- | 
+| 31st January | Deadline to submit your investment proofs | Yes | - |
+| 31st March | Deadline to  make investments under section 80C | Yes | - |
+| 1st April | Start of Financial Year | - | - |
+| 15th June | Due date for first installment of Advance Tax (15% Payable) for current financial year | Yes | - |
+| 31st July | Due date for filing income tax return for previous year | - | Yes |
+| 15th September | Due date for second installment of Advance Tax (45% Payable) for current financial year | Yes | - |
+| 15th December | Due date for third installment of Advance Tax (75& Payable) for current financial year | Yes | - |
+| 31st March | End of financial year. Fourth installment of Advance tax (100% Payable) for current financial year | Yes | - |
+| Oct-Nov | Time to verify your tax return | Yes | - |
+
+
+# Advance Tax
+
+| Due Date | Advance Tax Payable |
+| --- | --- |
+| On or before 15th June | 15% of advance tax |
+| On or before 15th September | 45% of avance tax |
+| On or before 15th December | 75% of avnace tax |
+| On or before 15th March | 199% of advance tax |
